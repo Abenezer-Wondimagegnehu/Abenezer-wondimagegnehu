@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Abenezer Wondimagegnehu
 
-<!--
-**Abenezer-Wondimagegnehu/Abenezer-wondimagegnehu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Data Analyst** | 🌍 Based in Frankfurt, Germany  
+💡 Passionate about data-driven decision making, especially in agriculture and sustainability.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills & Tools
+- **Languages:** Python, SQL  
+- **Libraries:** Pandas, Matplotlib, Seaborn  
+- **Visualization:** Tableau, Excel  
+- **Techniques:** Data Cleaning, EDA, Statistical Analysis, Machine Learning  
+- **Soft Skills:** Research, Communication, Cross-cultural collaboration
+
+---
+
+### 📊 Featured Projects
+- **[Unicorn E-commerce Analysis](https://colab.research.google.com/drive/1eGVGY6f3JDdjX46Kt0HHOLZR-Yhmp6kK?usp=sharing)**  
+  Analyzed 4 years of sales data to recommend inventory and marketing optimizations.
+
+- **[Car Dataset Analysis](https://colab.research.google.com/drive/1PkAIRFt3AH3_qRZdNAW5uBW8jr0oP2ja?usp=drive_link)**  
+  Explored car features to identify pricing and performance trends.
+
+---
+
+### 📚 Background
+Former horticulture lecturer & researcher turned data analyst.  
+Merging agricultural knowledge with analytical tools to create impact.
+
+---
+
+📫 **Contact me:**  
+📧 [wondiabeni6@gmail.com](mailto:wondiabeni6@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/abenezer-wondimagegnehu)
+
