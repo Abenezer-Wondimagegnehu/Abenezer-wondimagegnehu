@@ -24,7 +24,7 @@
 ---
 
 ### 📚 Background
-Former horticulture lecturer & researcher turned data analyst.  
+Former Horticulture lecturer & researcher turned data analyst.  
 Merging agricultural knowledge with analytical tools to create impact.
 
 ---
