@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abenezer Wondimagegnehu
+# Abenezer Wondimagegnehu
 
 🎯 **Data Analyst** | 🌍 Based in Frankfurt, Germany  
 💡 Passionate about data-driven decision making, especially in agriculture and sustainability.
